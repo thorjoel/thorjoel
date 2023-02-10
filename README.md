@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thorjoel
 - 👀 I’m interested in hiking in the woods
-- 🌱 I’m currently learning how to be a home owner
+- 🌱 I’m currently learning how to be a home owner and understand how github works
 - 💞️ I’m looking to collaborate on my youtube channel
 - 📫 How to reach me? Go to my webpage
 - www.skogfar.no
