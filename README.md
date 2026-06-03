@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @thorjoel
-- 👀 I’m interested in hiking in the woods
-- 🌱 I’m currently learning how to be a home owner and understand how github works
-- 💞️ I’m looking to collaborate on my youtube channel
-- 📫 How to reach me? Go to my webpage
-- www.skogfar.no
-<!---
-thorjoel/thorjoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm Thor
+
+Backend developer from Norway working with PHP, MODX, APIs and integrations.
+
+I build systems, feeds, maps, forms and strange little tools that somehow end up running important things.
+
+When I'm not coding:
+- hiking in the woods
+- lifting heavy things
+- flying virtual airplanes
+- playing Helldivers 2
+- debugging production at unreasonable hours
