@@ -10,3 +10,21 @@ When I'm not coding:
 - flying virtual airplanes
 - playing Helldivers 2
 - debugging production at unreasonable hours
+
+## Tech I work with
+
+- PHP
+- MODX
+- JavaScript / ES6
+- React
+- Azure
+- MySQL
+- Docker
+- Go
+
+## Random facts
+
+- I trust Linux logs more than humans
+- I can explain MODX to developers and developers to customers
+- Coffee consumption scales linearly with production incidents
+- I once fixed a production issue while half asleep at 03:14
