@@ -37,6 +37,3 @@ Also:
 - never trust user input
 - always backup before migrations
 - and bring proper clothes into the woods
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thorjoel&show_icons=true&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thorjoel&theme=tokyo-night)
