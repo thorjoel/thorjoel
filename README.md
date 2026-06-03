@@ -28,3 +28,15 @@ When I'm not coding:
 - I can explain MODX to developers and developers to customers
 - Coffee consumption scales linearly with production incidents
 - I once fixed a production issue while half asleep at 03:14
+
+## Philosophy
+
+Good systems should feel invisible.
+
+Also:
+- never trust user input
+- always backup before migrations
+- and bring proper clothes into the woods
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thorjoel&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thorjoel&theme=tokyo-night)
